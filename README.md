@@ -45,7 +45,7 @@ To run this project, you must download the dataset manually:
 │   ├── fit_powerlaw.m         # Statistical fitting
 │   └── null_model_bipartite.m # Randomization for validation
 └── output/                    # Generated results (Figures & Metrics)
-
+```
 ⚙️ Installation & Usage
 Prerequisites
 MATLAB (R2021a or later recommended)
