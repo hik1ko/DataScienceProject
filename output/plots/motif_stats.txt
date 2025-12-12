@@ -1,3 +1,0 @@
-Network Structure Analysis:
-Total 2x2 Bicliques (Butterflies): 20235903
-This indicates high transitivity in music consumption preferences.
